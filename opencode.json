@@ -1,0 +1,6 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "spacefast": { "type": "remote", "url": "https://mcp.spacefast.com", "enabled": true }
+  }
+}
